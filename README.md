@@ -100,12 +100,13 @@
 
 <section id="gallery">
   <h2>Gallery</h2>
-  <div class="flex">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Grand_Prismatic_Spring_and_Midway_Geyser_Basin_from_above.jpg" alt="Grand Prismatic Spring">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Yellowstone_Bison.jpg" alt="Yellowstone Bison">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Yellowstone_Lake.jpg" alt="Yellowstone Lake">
+  <div style="display:flex; gap:10px; flex-wrap:wrap;">
+    <img src="images/Grand_Prismatic.jpg" alt="Grand Prismatic Spring" style="max-width:300px; height:auto;">
+    <img src="images/Yellowstone_Bison.jpg" alt="Yellowstone Bison" style="max-width:300px; height:auto;">
+    <img src="images/Yellowstone_Lake.jpg" alt="Yellowstone Lake" style="max-width:300px; height:auto;">
   </div>
 </section>
+
 
   </div>
 </section>
