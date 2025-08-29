@@ -100,12 +100,13 @@
 
 <section id="gallery">
   <h2>Gallery</h2>
-  <div style="display:flex; gap:10px; flex-wrap:wrap;">
-    <img src="images/Grand_Prismatic.jpg" alt="Grand Prismatic Spring" style="max-width:300px; height:auto;">
-    <img src="images/Yellowstone_Bison.jpg" alt="Yellowstone Bison" style="max-width:300px; height:auto;">
-    <img src="images/Yellowstone_Lake.jpg" alt="Yellowstone Lake" style="max-width:300px; height:auto;">
+  <div style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center;">
+    <img src="https://cdn.pixabay.com/photo/2016/09/08/23/18/yellowstone-1655843_1280.jpg" alt="Yellowstone Landscape" style="max-width:300px; border-radius:8px;">
+    <img src="https://cdn.pixabay.com/photo/2020/02/06/14/09/yellowstone-4823131_1280.jpg" alt="Yellowstone Geyser" style="max-width:300px; border-radius:8px;">
+    <img src="https://cdn.pixabay.com/photo/2016/10/20/18/35/yellowstone-1751460_1280.jpg" alt="Yellowstone River" style="max-width:300px; border-radius:8px;">
   </div>
 </section>
+
 
 
   </div>
