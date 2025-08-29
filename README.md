@@ -1,6 +1,5 @@
 # index.html
-<!DOCTYPE html>
-body {made by gurpinder gill}
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -24,7 +23,7 @@ body {made by gurpinder gill}
 
 <header>
   <h1>Explore Yellowstone National Park</h1>
-  <p>America’s first National Park – geysers, wildlife, and breathtaking scenery</p>
+<p style="color: red;">America’s first National Park – geysers, wildlife, and breathtaking scenery</p>
   <a class="button" href="#things-to-do">Things To Do</a>
   <a class="button" href="#things-to-avoid">Things To Avoid</a>
 </header>
