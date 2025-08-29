@@ -105,12 +105,6 @@
 <img src="https://d.newsweek.com/en/full/2379240/yellowstone-lake.jpg" alt="Yellowstone Lake Ice Cover Unchanged—but &#39;Tipping Point&#39; Is ..."/><img src="https://www.tetonscience.org/wp-content/uploads/2020/09/SE-Sunset-in-Lamar-scaled-1.jpg" alt="Battle of the Yellowstone Wildlife Valleys: Hayden Valley vs ..."/><img src="https://muir-way.com/cdn/shop/articles/yellowstone-image.jpg?v=1746480606&amp;width=5464" alt="Exploring Yellowstone&#39;s Geology: Features, History, &amp; More – Muir Way"/>
 
 
-
- </div>
-</section>
-
-
-
   </div>
 </section>
 
