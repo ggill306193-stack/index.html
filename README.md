@@ -101,8 +101,7 @@
 <section id="gallery">
   <h2>Gallery</h2>
   <div style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center;">
-    <img src="https://jacksonhole-traveler-production.s3.amazonaws.com/wp-content/uploads/2014/05/old-faithful-4OFS1059-1280x853.jpg" alt="Experiencing the Old Faithful Geyser Basin - Jackson Hole Traveler"/><img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/20106915-0564-498a-a116-f1e9a1975b35" />
-
+    <img src="https://jacksonhole-traveler-production.s3.amazonaws.com/wp-content/uploads/2014/05/old-faithful-4OFS1059-1280x853.jpg" alt="Experiencing the Old Faithful Geyser Basin - Jackson Hole Traveler"/>
   </div>
 </section>
 
