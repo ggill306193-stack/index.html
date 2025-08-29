@@ -107,6 +107,9 @@
   </div>
 </section>
 
+  </div>
+</section>
+
 <footer>
   <p>&copy; 2025 Explore Yellowstone. Made by Gurpinder Gill. All rights reserved.</p>
 </footer>
