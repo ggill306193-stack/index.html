@@ -102,7 +102,11 @@
   <h2>Gallery</h2>
   <div style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center;">
     <img src="https://jacksonhole-traveler-production.s3.amazonaws.com/wp-content/uploads/2014/05/old-faithful-4OFS1059-1280x853.jpg" alt="Experiencing the Old Faithful Geyser Basin - Jackson Hole Traveler"/>
-  </div>
+<img src="https://travel.usnews.com/images/Photography_by_Deb_Snelsonnature-hot-spring-park.jpg" alt="Admire the colors of the Grand Prismatic Spring"/>
+ <img src="https://waterfallrecord.com/wp-content/uploads/2019/06/dsc_1169.jpg" alt="Lower Yellowstone Falls, Wyoming | The Waterfall Record"/><img src="https://d.newsweek.com/en/full/2379240/yellowstone-lake.jpg" alt="Yellowstone Lake Ice Cover Unchanged—but &#39;Tipping Point&#39; Is ..."/><img src="https://www.tetonscience.org/wp-content/uploads/2020/09/SE-Sunset-in-Lamar-scaled-1.jpg" alt="Battle of the Yellowstone Wildlife Valleys: Hayden Valley vs ..."/>
+
+
+ </div>
 </section>
 
 
