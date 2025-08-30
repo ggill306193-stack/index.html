@@ -36,7 +36,6 @@
     .button {padding:0.5em 1em; background:#ff6600; color:white; text-decoration:none; border-radius:5px; margin:0.5em;}
     .flex {display:flex; flex-wrap:wrap; justify-content:space-around;}
   </style>
-</head>
 <body>
 <div style="background-color: #ffeb3b; color: black; padding: 15px; text-align: center; font-weight: bold; font-size: 18px;">
   Submitted To Mr. Steven Wine By Gurpinder Gill
