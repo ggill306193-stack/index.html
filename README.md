@@ -4,7 +4,8 @@
   
 <head>
   <body>
-  <img src="82c82c8d-a59a-498b-934b-46f32d6498b5.png" alt="Guru Gobind Singh Logo" style="width:50px; height:50px; position: fixed; top: 10px; right: 10px; z-index: 1000;">
+  <img src="https://i.pinimg.com/originals/b4/5a/19/b45a193430a87b777141861882e55592.jpg"
+ alt="Guru Gobind Singh Logo" style="width:50px; height:50px; position: fixed; top: 10px; right: 10px; z-index: 1000;">
   <!-- Rest of your website content -->
 
   <style>
