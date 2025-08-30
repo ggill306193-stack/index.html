@@ -2,6 +2,19 @@
 
 <html lang="en">
 <head>
+  <style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0 30px; /* space for side borders */
+    border-left: 15px solid #2e8b57;   /* left border */
+    border-right: 15px solid #2e8b57;  /* right border */
+    background-image: url('https://www.transparenttextures.com/patterns/lines.png'); /* subtle pattern */
+    background-repeat: repeat-y;
+    background-position: left, right;
+  }
+</style>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Explore Yellowstone National Park - Made by Gurpinder Gill</title>
