@@ -4,9 +4,6 @@
   
 <head>
   <body>
-  <img src="https://www.shutterstock.com/image-vector/turban-icon-black-color-transparent-260nw-1645529098.jpg" alt="Turban Icon Black Color Transparent Background"; style="width:50px; height:50px; position: fixed; top: 10px; right: 10px; z-index: 1000;">
-  <!-- Rest of your website content -->
-
   <style>
   body {
     font-family: Arial, sans-serif;
