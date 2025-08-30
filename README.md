@@ -20,6 +20,10 @@
   </style>
 </head>
 <body>
+<div style="background-color: #ffeb3b; color: black; padding: 15px; text-align: center; font-weight: bold; font-size: 18px;">
+  Submitted To Mr. Wine By Gurpinder Gill
+</div>
+
 
 <header>
   <h1>Explore Yellowstone National Park</h1>
